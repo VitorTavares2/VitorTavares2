@@ -14,25 +14,24 @@ I enjoy building real projects that help me learn new technologies, improve my c
 ## 🧰 Technologies I work with
 
 ### **Languages**
-- Bash  
-- C  
-- C#  
-- CSS3  
-- Go  
-- HTML5  
-- Java  
+- Bash 
+- C    
+- Go    
+- Java
+- Python  
 - JavaScript  
 
 ### **Frameworks & Libraries**
 - React  
-- React Native  
 - Vue.js  
-- Node.js  
+- Node.js
+- Django  
 - Spring Boot  
 
 ### **Tools & Other Technologies**
 - Git  
-- MySQL  
+- MySQL
+- SqLite 
 - Figma  
 
 ---
