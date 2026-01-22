@@ -5,15 +5,15 @@ Gosto de construir **projetos reais** que me ajudam a **aprender novas tecnologi
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Conecte-se comigo
 
 - **LinkedIn:** https://www.linkedin.com/in/vitor-tavares-ti/
 
 ---
 
-## 🧰 Technologies I work with
+## 🧰 Tecnologias com as quais trabalho
 
-### **Languages**
+### **Linguagens**
 - Bash  
 - C  
 - Go  
@@ -21,17 +21,17 @@ Gosto de construir **projetos reais** que me ajudam a **aprender novas tecnologi
 - Python  
 - JavaScript  
 
-### **Frameworks & Libraries**
+### **Frameworks & Bibliotecas**
 - React  
 - Vue.js  
 - Node.js  
 - Django  
 - Spring Boot  
 
-### **Tools & Other Technologies**
+### **Ferramentas & Outras Tecnologias**
 - Git  
 - MySQL  
-- SqLite  
+- SQLite  
 - Figma  
 
 ---
