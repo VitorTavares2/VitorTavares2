@@ -1,38 +1,45 @@
-# Vitor Tavares
+Vitor Tavares
 
-I'm a **Computer Science student at IFNMG**, focusing on **backend** and **full-stack development**.  
-I enjoy building real projects that help me learn new technologies, improve my code quality, and solve practical problems.
+Sou estudante de Ciência da Computação no IFNMG, com foco em desenvolvimento backend e full stack.
+Gosto de criar projetos reais que me ajudem a aprender novas tecnologias, melhorar a qualidade do meu código e resolver problemas práticos.
 
----
+🌐 Conecte-se comigo
 
-## 🌐 Connect with me
+LinkedIn: https://www.linkedin.com/in/vitor-tavares-ti/
 
-- **LinkedIn:** https://www.linkedin.com/in/vitor-tavares-ti/
+🧰 Tecnologias com as quais trabalho
+Linguagens
 
----
+Bash
 
-## 🧰 Technologies I work with
+C
 
-### **Languages**
-- Bash 
-- C    
-- Go    
-- Java
-- Python  
-- JavaScript  
+Go
 
-### **Frameworks & Libraries**
-- React  
-- Vue.js  
-- Node.js
-- Django  
-- Spring Boot  
+Java
 
-### **Tools & Other Technologies**
-- Git  
-- MySQL
-- SqLite 
-- Figma  
+Python
 
----
+JavaScript
 
+Frameworks & Bibliotecas
+
+React
+
+Vue.js
+
+Node.js
+
+Django
+
+Spring Boot
+
+Ferramentas & Outras Tecnologias
+
+Git
+
+MySQL
+
+SQLite
+
+Figma
